@@ -13,7 +13,7 @@ The benchmark instances are contained in the folder named "Data".
 </ul>
 
 <h2>Experimental results</h2><br>
-5 algorithms used for small-scale instances, medium-large instances, and very-large instances:<br>
+5 algorithms used for small-scale instances, medium-large instances, and very-large instances:<br><br>
 <ul>
   <li>SGS</li>
   <li>SGS-ES</li>
@@ -21,6 +21,6 @@ The benchmark instances are contained in the folder named "Data".
   <li>NSGA-III</li>
   <li>MOEA/D</li>
  </ul>
-and Cplex results obtained with the mathematical model for the small instances<br>.
+and Cplex results obtained with the mathematical model for the small instances.<br>
 Each folder contains the results obtained with the algorithm after which the folder itself is named. The results are organized in different runs of the same algorithm. For instance, the folder "2" contained in the folder "SGS-ES" contains the results obtained with the second run of SGS-ES.
 
